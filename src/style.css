@@ -1,0 +1,14 @@
+.hello {
+    color: orange;
+    font-size: 38px;
+    text-align: center;
+    width:60%;
+    margin-left: 40px;
+    position: absolute;
+    font:cursive;
+  }
+
+  .logo{
+      width: 20%;
+      height:20%;
+  }
