@@ -19,4 +19,4 @@ const component = () => {
 };
 
 
-export { component };
+export default component;

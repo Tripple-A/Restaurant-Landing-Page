@@ -5,4 +5,4 @@ const menu = () => {
   return menu;
 };
 
-export { menu };
+export default menu;

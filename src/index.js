@@ -1,8 +1,8 @@
 import './style.css';
-import { menu } from './menu';
-import { contact } from './contact';
+import menu from './menu';
+import contact from './contact';
 
-import { component } from './pageload';
+import component from './pageload';
 
 const content = document.getElementById('content');
 content.appendChild(component());
