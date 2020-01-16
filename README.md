@@ -1,5 +1,5 @@
 # Restaurant-Landing-Page
-This is a restaurant Page made by purely Javascript,using webpacker,find it (https://raw.githack.com/Tripple-A/Restaurant-Landing-Page/restaurant-page-logic/dist/index.html)[here]
+This is a restaurant Page made by purely Javascript,using webpacker,find it [https://raw.githack.com/Tripple-A/Restaurant-Landing-Page/restaurant-page-logic/dist/index.html](here)
 
 ## Principles Employed
 * Modules are imported and exported in order to keep the code clean and readable
