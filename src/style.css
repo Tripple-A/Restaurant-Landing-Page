@@ -1,0 +1,43 @@
+#content{
+    width:50%;
+    margin:0px auto;
+    text-align: center;
+}
+
+.heading {
+    color: rgb(81, 255, 0);
+    font-size: 42px;
+    font-family:cursive;
+    padding-top:1%;
+  }
+
+  .heading2{
+      font-size:24px;
+      color:rgb(187, 94, 187);
+      padding:10px;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  .logo{
+      width: 20%;
+      height:20%;
+      float:left;
+    }
+
+    .tabs{
+   padding:10px;
+   margin-right:10px;
+   border-radius: 30%;
+   width:30%;
+   background-color: greenyellow;     
+    }
+
+    .menu , .contact{
+        font-size: 20px;
+        margin-top:10%;
+        text-align: center;
+        color: rgb(187, 94, 187);;
+        border-radius: 5px;
+        margin-left:20%;
+
+    }
